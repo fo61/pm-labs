@@ -1,28 +1,26 @@
 # pm-labs
 
-Web3 research and content portfolio by **chatai66** (X / Superteam Earn).
+AI agent lab and content workbench of **chatai66** (X: [@chatai66](https://x.com/chatai66)).
 
-I research Solana ecosystem projects, real-world asset (RWA) tokenization, and DeFi products, and turn primary sources into clear, publish-ready content: short X posts, threads, and longer research notes.
-
-This repository is my public workbench. Everything here is a real sample of work, with sources cited and uncertain figures flagged as such. No fabricated track record, no price predictions.
+I build, test, and write about AI agents in public: what they can actually do, where they break, and what it takes to run them on real tasks. Everything here is a real sample of work — short posts, threads, and research notes — with sources cited and anything unverified flagged as such. No fabricated track record.
 
 ## What I do
 
-- **Project research notes** - what a protocol does, how it makes money, key on-chain numbers, risks, and what would change my mind
-- **X content** - single posts and threads that explain a product or event with verifiable data, written for readers outside the immediate ecosystem
-- **Bounty delivery** - Superteam Earn and similar bounty work delivered to brief, on deadline, with sources
+- **AI agent experiments** — hands-on tests of agents on real tasks: what worked, what failed, exact numbers, one lesson
+- **AI research notes** — reading primary sources (papers, docs, launch announcements) and turning them into clear, publishable analysis
+- **X content** — first-person posts and threads on AI agents and AI tech: hooks first, personal takes, questions that earn replies
 
 ## Samples in this repo
 
 | Sample | Type | What it shows |
 | --- | --- | --- |
-| [Tokenization private credit research](research/tokenization-private-credit.md) | Research note | Market sizing with source discipline, competing definitions, risk analysis |
-| [Streamflow STREAM burn post](content/streamflow-burn-post.md) | X post / thread | Compressing an on-chain event into accurate short-form copy |
-| [Bounty research checklist](templates/bounty-research-checklist.md) | Template | The checklist I run before writing any bounty submission |
+| [Tokenized private credit research](research/tokenization-private-credit.md) | Research note | Market sizing with source discipline, competing definitions, risk analysis |
+| [Streamflow STREAM burn post](content/streamflow-burn-post.md) | X post / thread | Compressing a complex event into accurate short-form copy |
+| [Bounty research checklist](templates/bounty-research-checklist.md) | Template | The checklist I run before writing any submission |
 
 ## How I work
 
-1. Read the primary source first (official docs, announcements, on-chain records), not summaries of summaries
+1. Read the primary source first (official docs, papers, announcements), not summaries of summaries
 2. Separate confirmed figures from estimates, and date every number
 3. Write the short version first; if it is not clear in 280 characters, the long version will not be either
 4. Flag anything I could not verify instead of filling gaps
@@ -30,7 +28,6 @@ This repository is my public workbench. Everything here is a real sample of work
 ## Contact
 
 - X: https://x.com/chatai66
-- Superteam Earn: chatai66
 - GitHub: https://github.com/fo61
 
 *Content in this repo is research and education, not financial advice.*
