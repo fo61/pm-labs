@@ -14,9 +14,7 @@ I build, test, and write about AI agents in public: what they can actually do, w
 
 | Sample | Type | What it shows |
 | --- | --- | --- |
-| [Tokenized private credit research](research/tokenization-private-credit.md) | Research note | Market sizing with source discipline, competing definitions, risk analysis |
-| [Streamflow STREAM burn post](content/streamflow-burn-post.md) | X post / thread | Compressing a complex event into accurate short-form copy |
-| [Bounty research checklist](templates/bounty-research-checklist.md) | Template | The checklist I run before writing any submission |
+| [Research checklist](templates/bounty-research-checklist.md) | Template | The checklist I run before writing any piece: sources, numbers, verification |
 
 ## How I work
 
